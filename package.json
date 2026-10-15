@@ -1,0 +1,21 @@
+{
+  "name": "playwright_practice_ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsinazmi90/playwright_practice_ai.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mohsinazmi90/playwright_practice_ai/issues"
+  },
+  "homepage": "https://github.com/mohsinazmi90/playwright_practice_ai#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
